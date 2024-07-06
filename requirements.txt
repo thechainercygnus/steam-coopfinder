@@ -1,0 +1,13 @@
+beautifulsoup4==4.12.3
+certifi==2024.6.2
+charset-normalizer==3.3.2
+idna==3.7
+markdown-it-py==3.0.0
+mdurl==0.1.2
+Pygments==2.18.0
+python-dotenv==1.0.1
+python-steam-api==2.0.2
+requests==2.32.3
+rich==13.7.1
+soupsieve==2.5
+urllib3==2.2.2
